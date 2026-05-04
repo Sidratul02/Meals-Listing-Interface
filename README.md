@@ -2,6 +2,8 @@
 
 A responsive meals and recipes listing interface built with React, TypeScript, and Vite. It fetches live data from the FreeAPI Meals API and displays recipes in a clean, card-based layout.
 
+<img width="636" height="723" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/b3ec197b-7adc-4a51-9813-dd2bcb878e5e" />
+
 ---
 
 ## Live API
